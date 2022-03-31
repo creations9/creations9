@@ -1,22 +1,25 @@
 {
-   "app_redirectOtherAppStatus":"0",
-   "app_newPackageName":"https://play.google.com/store/apps/details?id=com.Ranchsimulatarguide.freeguideranch",
-   "app_AppOpenAdStatus":"0",
-   "app_dialogBeforeAdShow":"0",
-   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
-   "app_howShowAd":"0",
-   "qureka":"https://747.win.qureka.com",
-   "more_app":"https://raw.githubusercontent.com/filepro23/filepro/main/appslink.json",
-   "admob_showAdStatus":"0",
-   "AppID":"ca-app-pub-2617940661920604~1585073787",
-   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
-   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
-   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
-   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "fbad_showStatus":"1",
-   "fb_banner":"580315290013680_580315503346992",
-   "fb_inter1":"580315290013680_581019256609950",
-   "fb_inter2":"580315290013680_581019256609950",
-   "fb_inter3":"580315290013680_581019256609950",
-   "fb_native":"580315290013680_581022969942912",
-   "fb_nativebanner":"846958626242750_846962496242363"
+  "Ads": [
+    {
+      "app_id": "ca-app-pub-3940256099942544~3347511711",
+      "banner_id": "ca-app-pub-3940256099942544/6300978112",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173713",
+      "native_id": "ca-app-pub-3940256099942544/2247696114",
+      "qureka_ads": "https://747.win.predchamp.com/",
+      "status": true,
+      "splash_ads": false
+    },
+    {
+      "app_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "banner_id": "510007963983407_510009057316631",
+      "interstitial_id": "510007963983407_510009157316621",
+      "interstitial_id1": "510007963983407_510009157316621",
+      "interstitial_id2": "510007963983407_510009157316621",
+      "native_id": "510007963983407_510009217316615",
+      "native_banner_id": "510007963983407_510009823983221",
+      "rectangle_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "status": true,
+      "splash_ads": false
+    }
+  ]
+}
